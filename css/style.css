@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.box-1 {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 200px;
+    border-radius: 50%;
+    box-shadow: -50px -50px 10px 0 yellow , 50px 50px 10px 0 , -50px 50px 10px 0 orange , 50px -50px 10px 0 red;
+}
